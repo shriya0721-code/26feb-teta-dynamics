@@ -1,5 +1,4 @@
 # 26feb-teta-dynamics
-What You’ll Say in Report
 
 Concepts Used:
 
